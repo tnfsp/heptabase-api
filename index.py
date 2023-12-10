@@ -5,8 +5,8 @@ import time
 import json
 from flask_cors import CORS
 
-# Jiang 的数字花园 ID
-HEPTABASE_WHITEBOARD_ID = 'd4cc3728297609add1a00aab108e90c4e57a1c378cfc2307c251745bf7d2a884'
+# HSIANG 的数字花园 ID
+HEPTABASE_WHITEBOARD_ID = '306d9b1f94dca941fb05361f9ed2432e660aaa1e858cfb31ed9ee916854b7218'
 
 # 存储 heptabase base 数据
 HEPTABASE_DATA = {'result': 'erro', 'data': {}, 'time': ''}
